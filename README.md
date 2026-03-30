@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Prafull Chaturvedi 👋
+
+📝 Currently studying at VIT Bhopal University <br>
+🎓 Branch: Computer Science Engineering (Core) <br>
+📚 Year: 1st Year  
+
+💡 I hope to learn as much as I can about my field especially about Arttifical Intelligence and Machine Learning, how to build impactful projects and improve my problem-solving skills.
 
 <!--
 **Prafullchaturvedi0/Prafullchaturvedi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
